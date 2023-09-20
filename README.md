@@ -2,4 +2,4 @@
 Make custom wordclouds using python.
 
 ## Example
-![wordcloud example](https://github.com/ericmuckley/wordcloud/blob/min/wordcloud.png?raw=true)
+![wordcloud example](https://github.com/ericmuckley/wordcloud/blob/main/wordcloud.png?raw=true)
